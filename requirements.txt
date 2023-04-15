@@ -1,6 +1,6 @@
 six >= 1.11.0
-inspecta @ git+https://github.com/SatoshiAndKin/python-inspecta@master#egg=inspecta
 rootpath @ git+https://github.com/SatoshiAndKin/python-rootpath@master#egg=rootpath
+inspecta @ git+https://github.com/SatoshiAndKin/python-inspecta@master#egg=inspecta
 
 # # setuptools never belongs in a requirements.txt
 # setuptools >= 40.8.0
